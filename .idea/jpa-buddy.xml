@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="defaultUnitInitialized" value="true" />
+    <option name="renamerInitialized" value="true" />
+    <option name="isSnapshotDb" value="false" />
+    <option name="snapshotModelValue" value="Default" />
+    <option name="updateChangeLogPath" value="src/main/resources/db.changelog/db.changelog-master.xml" />
+    <option name="updateDbConnectionName" value="9fdb66e8-00d0-4ebb-b34d-516454088c9d" />
+  </component>
+</project>
